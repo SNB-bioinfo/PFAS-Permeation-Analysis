@@ -1,0 +1,11 @@
+name,abbreviation,smiles,class,n_perfluoro_carbons,headgroup,mol_formula,mw,clogp,tpsa,hbd,hba,rotatable_bonds,fraction_F,permeation_proxy
+Perfluorobutanoic acid,PFBA,OC(=O)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,3,carboxylate,C4HF7O2,214.04,1.904,37.3,1,1,2,0.538,0.785
+Perfluoropentanoic acid,PFPeA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,4,carboxylate,C5HF9O2,264.04,2.539,37.3,1,1,3,0.562,1.42
+Perfluorohexanoic acid,PFHxA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,5,carboxylate,C6HF11O2,314.05,3.175,37.3,1,1,4,0.579,2.056
+Perfluoroheptanoic acid,PFHpA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,6,carboxylate,C7HF13O2,364.06,3.81,37.3,1,1,5,0.591,2.691
+Perfluorooctanoic acid,PFOA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,7,carboxylate,C8HF15O2,414.06,4.445,37.3,1,1,6,0.6,3.326
+Perfluorononanoic acid,PFNA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,8,carboxylate,C9HF17O2,464.07,5.08,37.3,1,1,7,0.607,3.961
+Perfluorodecanoic acid,PFDA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,9,carboxylate,C10HF19O2,514.08,5.716,37.3,1,1,8,0.613,4.597
+Perfluorobutanesulfonic acid,PFBS,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,sulfonic_acid,4,sulfonate,C4HF9O3S,300.1,2.3,54.37,1,2,3,0.529,0.669
+Perfluorohexanesulfonic acid,PFHxS,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,sulfonic_acid,6,sulfonate,C6HF13O3S,400.11,3.571,54.37,1,2,5,0.565,1.94
+Perfluorooctanesulfonic acid,PFOS,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,sulfonic_acid,8,sulfonate,C8HF17O3S,500.13,4.841,54.37,1,2,7,0.586,3.21

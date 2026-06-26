@@ -1,0 +1,11 @@
+name,abbreviation,smiles,class,n_perfluoro_carbons,headgroup
+Perfluorobutanoic acid,PFBA,OC(=O)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,3,carboxylate
+Perfluoropentanoic acid,PFPeA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,4,carboxylate
+Perfluorohexanoic acid,PFHxA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,5,carboxylate
+Perfluoroheptanoic acid,PFHpA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,6,carboxylate
+Perfluorooctanoic acid,PFOA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,7,carboxylate
+Perfluorononanoic acid,PFNA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,8,carboxylate
+Perfluorodecanoic acid,PFDA,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,carboxylic_acid,9,carboxylate
+Perfluorobutanesulfonic acid,PFBS,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,sulfonic_acid,4,sulfonate
+Perfluorohexanesulfonic acid,PFHxS,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,sulfonic_acid,6,sulfonate
+Perfluorooctanesulfonic acid,PFOS,OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,sulfonic_acid,8,sulfonate
