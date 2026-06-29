@@ -95,7 +95,7 @@ The descriptor trends above suggest concrete, testable hypotheses for a subseque
 data/        PFAS panel (SMILES) and computed descriptors
 src/         descriptor computation, trend plots, MD analysis demo
 figures/     generated figures
-notebooks/   analysis.ipynb — reproduces the descriptor analysis end to end
+analysis.ipynb   notebook reproducing the descriptor analysis end to end
 ```
 
 ## Reproducibility
@@ -107,7 +107,7 @@ python src/plot_trends.py           # regenerate figures 01–03
 python src/md_trajectory_demo.py    # regenerate figure 04 (MD demo)
 ```
 
-Or open `notebooks/analysis.ipynb` to run the descriptor analysis interactively.
+Or open `analysis.ipynb` to run the descriptor analysis interactively.
 
 ## References
 
